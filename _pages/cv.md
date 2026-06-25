@@ -9,56 +9,42 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Ph.D. in Computer Science**, EPFL, 2018 - 2023
+* **B.Sc.**, Moscow State University, 2014 - 2018
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Research Experience
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Postdoctoral Researcher**, Max Planck Institute Security & Privacy Group
+  * Research on applied cryptography and security
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Research Intern**, a16z Crypto Research, June 2022 - December 2022
+  * Research on zero-knowledge proof systems
+
+* **Research Intern**, Chainlink Labs, June 2021 - September 2021
+  * Research on secure multi-party computation
+
+## Research Interests
+
+* Zero-Knowledge Proof Systems
+* Secure Multi-Party Computation
+* Post-Quantum Cryptography
+
+## Publications
+
+{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+
+## Awards
+
+* EPFL Doctoral Excellence Scholarship
+
+## Skills
+
+* Applied Cryptography
+* Zero-Knowledge Proofs
+* Secure Multi-Party Computation
+* Post-Quantum Cryptography
+* Formal Verification

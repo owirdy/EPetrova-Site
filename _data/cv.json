@@ -1,152 +1,146 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Elena Petrova",
+    "email": "elena.petrova@mpi-sp.org",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://owirdy.github.io/EPetrova-Site",
+    "summary": "Postdoctoral researcher at Max Planck Institute Security & Privacy Group. Research focuses on applied cryptography and security.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "",
+      "countryCode": "DE",
+      "region": "Germany"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "username": "Elena Petrova",
+        "url": "https://scholar.google.com/citations?user=ElenaPetrovaCrypto"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "epetrova-crypto",
+        "url": "https://github.com/epetrova-crypto"
+      },
+      {
+        "network": "Twitter",
+        "username": "@elena_zk",
+        "url": "https://twitter.com/elena_zk"
       }
     ]
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Max Planck Institute Security & Privacy Group",
+      "area": "Postdoctoral Researcher",
       "studyType": "",
       "startDate": "",
+      "endDate": "Present",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "a16z Crypto Research",
+      "area": "Research Intern",
+      "studyType": "",
+      "startDate": "2022-06",
+      "endDate": "2022-12",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Chainlink Labs",
+      "area": "Research Intern",
+      "studyType": "",
+      "startDate": "2021-06",
+      "endDate": "2021-09",
+      "gpa": null,
+      "courses": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "EPFL",
+      "area": "Ph.D. in Computer Science",
+      "studyType": "",
+      "startDate": "2018",
+      "endDate": "2023",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Moscow State University",
+      "area": "B.Sc.",
+      "studyType": "",
+      "startDate": "2014",
       "endDate": "2018",
       "gpa": null,
       "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Applied Cryptography",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Zero-Knowledge Proofs",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Secure Multi-Party Computation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Post-Quantum Cryptography",
+      "level": "",
+      "keywords": []
+    }
+  ],
   "languages": [],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Zero-Knowledge Proof Systems",
+      "keywords": []
+    },
+    {
+      "name": "Secure Multi-Party Computation",
+      "keywords": []
+    },
+    {
+      "name": "Post-Quantum Cryptography",
+      "keywords": []
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "FoldProof: Recursive SNARKs without Trusted Setup",
+      "publisher": "IEEE S&P 2024",
+      "releaseDate": "2024",
+      "website": "",
+      "summary": "First author"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "LatticeMPC: Post-Quantum Secure Computation",
+      "publisher": "CRYPTO 2025",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": "First author"
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "zkRollup-Audit: Formal Verification of Layer-2",
+      "publisher": "USENIX Security 2023",
+      "releaseDate": "2023",
+      "website": "",
+      "summary": "Co-author"
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }
